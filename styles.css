@@ -1,0 +1,50 @@
+body{
+font-family:Arial,sans-serif;
+margin: 0;
+padding: 0;
+background-color:rgba(172, 170, 172, 0.267)
+}
+header{
+background-color: #fbfcfa;
+color: rgb(15, 62, 218);
+text-align: center;
+}
+nav a:hover{text-decoration: underline;}
+section{width: 80%;}
+{margin: 20px auto;
+padding: 20px;
+background color
+padding: :white;
+box-shadow:0  0 10px  rgba(0,0,0,0.1)
+}
+footer( text-align: centre;
+background-color: #
+color:)
+form{
+    background: #f9f9f9
+    padding: 15px;
+    boder-radius: 5px;
+}
+input[type="text"],input[type="email"]
+{width: 80%;
+padding: 8px;
+margin:5px 0;
+border:1px solid #AAAAA
+border-radius: 5px;}
+
+input[type="submit"]{
+    border-radius: 10px;
+    padding: 100px;
+    margin:5px 0;
+}
+
+
+
+
+
+input[type="submit"]{
+    background-color: #07bed6;
+    color: azure;
+    padding: 15px;
+}
+#delBtn{background-color: red;}
